@@ -102,7 +102,7 @@
 ### Otros
 
 | Command| Descripción |
-| ------- | ----------- | ----------- |
+| -------| ----------- |
 | `alias [name=] "command"`| Crea un alias para llamar a un comando |
 | `git tag -a [name] -m "message" [id/hashtag]`| Crea un tag de un commit en especifico |
 | `git show-ref --tags`| Lista los tags existentes |
